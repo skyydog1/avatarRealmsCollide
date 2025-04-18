@@ -1,4 +1,4 @@
-#Avatar Realms Collide data and reverse engineering
+# Avatar Realms Collide data and reverse engineering
 
 This is a log of cleaned data from mobile game Avatar Realms Collide
 
