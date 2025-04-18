@@ -8,13 +8,13 @@ Data was extracted directly from bluestack files using Android Debug Bridge
 
 If you don't want to deal with sorting through the individual files, just download the combined sheets excel file
 
-# data mining and reverse engineering process
+# Data mining and reverse engineering process
 
 Initially I had only planned to grab the data in csv format and leave it at that, however I ended up reverse engineering the game's files.
 
 I wanted the game's asset id files in order to match up in game asset names to their ids in the csv files, but this information was not readily availabe.
 
-## overview of the process
+## Overview of the process
 
 ### Initial file extraction:
 1. Extract game data from bluestacks 5 in program files X86, program files, appdata, and program data. Most of this information was either encrypted or not relevant to my uses.
