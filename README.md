@@ -1,8 +1,6 @@
 # Avatar Realms Collide data and reverse engineering
 
-This is a log of cleaned data from mobile game Avatar Realms Collide
-
-Data was extracted directly from bluestack files using Android Debug Bridge
+This repository documents research and analysis of publicly available extracted data from the Android version of Avatar Reamls Collide. The data was gathered through inspection of app files in the Android environment.
 
 # Usage
 
@@ -10,7 +8,7 @@ If you don't want to deal with sorting through the individual files, just downlo
 
 # Data mining and reverse engineering process
 
-Initially I had only planned to grab the data in csv format and leave it at that, however I ended up reverse engineering the game's files.
+Initially I had only planned to grab the data in csv format and leave it at that, however I ended up analyzing the game's files.
 
 I wanted the game's asset id files in order to match up in game asset names to their ids in the csv files, but this information was not readily availabe.
 
