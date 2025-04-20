@@ -1,6 +1,6 @@
 # Avatar Realms Collide data and reverse engineering
 
-This repository documents research and analysis of publicly available extracted data from the Android version of Avatar Reamls Collide. The data was gathered through inspection of app files in the Android environment.
+This repository documents research and analysis of publicly available extracted data from the mobile game Avatar Reamls Collide. The data was gathered through inspection of app files in the Android environment.
 
 # Usage
 
