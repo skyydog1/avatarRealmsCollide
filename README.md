@@ -39,7 +39,7 @@ I wanted the game's asset id files in order to match up in game asset names to t
 
 ### Some Data
 
-##Town hall data
+## Town hall data
 ![Cost of resources vs Level](https://github.com/skyydog1/avatarRealmsCollide/blob/main/Resources%20vs%20Level.jpg?raw=true)
 
 You need a total of 784,817,900 Rss, 302 mil wood, 302 mil food, and 181 mil stone. After the first 5 levels each cost is almost always around 1.5X the previous. You need a lot more wood and food than stone. Total time needed: 303 days.
