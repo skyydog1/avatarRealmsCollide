@@ -37,7 +37,7 @@ I wanted the game's asset id files in order to match up in game asset names to t
 - Unity asset structures and IL2CPP decompilation
 - Pandas and csv write for data cleaning
 
-### Some Data
+# Some Data
 
 ## Town hall data
 ![Cost of resources vs Level](https://github.com/skyydog1/avatarRealmsCollide/blob/main/Resources%20vs%20Level.jpg?raw=true)
