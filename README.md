@@ -46,4 +46,4 @@ You need a total of 784,817,900 Rss, 302 mil wood, 302 mil food, and 181 mil sto
 
 ![This shows how quickly resources costs exponentiate](https://github.com/skyydog1/avatarRealmsCollide/blob/main/Total%20RSS%20vs%20Level.jpg?raw=true)
 
-This shows how quickly total resource costs exponentiate
+This shows how quickly total resource costs exponentiate.
